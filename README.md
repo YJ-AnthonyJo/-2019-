@@ -6,4 +6,4 @@
 pretrained model인 vgg_face_weights.h5를 사용하였으나 깃허브상 100MB이상의 파일을 올릴 수 없으므로, 링크로 대체한다.<a href link="https://www.kaggle.com/datasets/acharyarupak391/vggfaceweights">링크</a>
 ## drone_need_train
 동작(몸짓)인식으로 드론을 조종하는 프로젝트이다.  
-데이터 : 당시 학교 체육복이 모두 파란색인점을 이용하여 opencv를 통해 체육복 부분만을 추출하여 모션인식에 활용하였다.
+데이터 : 당시 파란색 티셔츠를 이용하여 opencv를 통해 티셔츠 부분만을 추출하여 모션인식에 활용하였다.
